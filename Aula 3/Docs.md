@@ -14,4 +14,4 @@ Além disso, entendemos melhor por que subir o código para um repositório é t
 
 No final da aula, conseguimos compreender melhor a relação entre código, dependências, versões, GitHub e CI/CD, percebendo que manter as dependências organizadas e as versões controladas é fundamental para evitar problemas e garantir que o projeto funcione de maneira consistente em diferentes ambientes.
 
-link do repositorio [...](https://github.com/Dracon-46/Devops_Aula3) e link do projeto [...](https://devops-aula3.vercel.app/)
+link do repositorio [Devops_Letreco](https://github.com/Dracon-46/Devops_Aula3) e link do projeto [Site_Letreco](https://devops-aula3.vercel.app/)
