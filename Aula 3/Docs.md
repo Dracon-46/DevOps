@@ -13,3 +13,5 @@ Depois de instalar as dependências, executamos o projeto com o npm start e veri
 Além disso, entendemos melhor por que subir o código para um repositório é tão importante. O objetivo não é apenas guardar o código, mas também permitir que outras pessoas tenham acesso ao projeto, possam cloná-lo, instalar suas dependências e continuar o desenvolvimento. Isso também está diretamente relacionado ao uso de CI/CD, já que, em um fluxo de desenvolvimento, o código enviado para o repositório pode passar por processos automáticos de instalação, testes e validação.
 
 No final da aula, conseguimos compreender melhor a relação entre código, dependências, versões, GitHub e CI/CD, percebendo que manter as dependências organizadas e as versões controladas é fundamental para evitar problemas e garantir que o projeto funcione de maneira consistente em diferentes ambientes.
+
+link do repositorio [...](https://github.com/Dracon-46/Devops_Aula3) e link do projeto [...](https://devops-aula3.vercel.app/)
