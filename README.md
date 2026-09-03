@@ -2,12 +2,16 @@
 
 Repositório da disciplina de DevOps, com os resumos, referências e documentos das aulas.
 
-## Estrutura
+## Aulas
 
-Todo o conteúdo das aulas está organizado dentro da pasta [`Aulas/`](Aulas/README.md):
+Resumos das aulas de DevOps, organizados por aula:
 
-- `Aulas/Aula1` a `Aulas/Aula4` — resumos de cada aula.
-- `Aulas/referencias` — links de artigos, documentações e vídeos usados como apoio.
-- `Aulas/documentos` — PDFs, slides e outros arquivos entregues ou recebidos nas aulas.
+- [Aula 1](Aulas/Aula1/Aula1.md) — apresentação e plano de curso.
+- [Aula 2](Aulas/Aula2/Aula2.md) — CI/CD e hospedagem (Vercel).
+- [Aula 3](Aulas/Aula3/Docs.md) — dependências e CI/CD, com o projeto prático em [Devops_Aula3](https://github.com/Dracon-46/Devops_Aula3).
+- [Aula 4](Aulas/Aula4/Aula4.md) — pipelines, CI/CD e testes automatizados.
 
-Veja o [índice completo das aulas](Aulas/README.md) para mais detalhes.
+## Referências e documentos
+
+- [`referencias/`](referencias/README.md) — links de artigos, documentações e vídeos usados como apoio.
+- [`documentos/`](documentos/README.md) — PDFs, slides e outros arquivos entregues ou recebidos nas aulas.
