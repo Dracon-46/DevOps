@@ -45,3 +45,5 @@ Dessa maneira, a Aula 4 relacionou a parte teórica de DevOps com uma aplicaçã
 Referência da atividade:
 
 MANOLOV, Vladislav; GOTSEVA, Daniela; HINOV, Nikolay. Practical Comparison Between the CI/CD Platforms Azure DevOps and GitHub. Future Internet, v. 17, n. 4, 2025, p. 153. DOI: 10.3390/fi17040153.
+
+Pesquisa completa da atividade: [pesquisa.md](pesquisa.md).
