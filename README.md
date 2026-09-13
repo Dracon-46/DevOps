@@ -10,6 +10,7 @@ Resumos das aulas de DevOps, organizados por aula:
 - [Aula 2](Aulas/Aula2/Aula2.md) — CI/CD e hospedagem (Vercel).
 - [Aula 3](Aulas/Aula3/Docs.md) — dependências e CI/CD, com o projeto prático em [Devops_Aula3](https://github.com/Dracon-46/Devops_Aula3).
 - [Aula 4](Aulas/Aula4/Aula4.md) — pipelines, CI/CD e testes automatizados.
+- [Aula 5](Aulas/Aula5/Aula5.md) — Actions do GitHub Marketplace, com o projeto prático em [Devops_Aula5](https://github.com/Dracon-46/Devops_Aula5).
 
 ## Referências e documentos
 
