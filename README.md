@@ -12,6 +12,7 @@ Resumos das aulas de DevOps, organizados por aula:
 - [Aula 4](Aulas/Aula4/Aula4.md) — pipelines, CI/CD e testes automatizados.
 - [Aula 5](Aulas/Aula5/Aula5.md) — Actions do GitHub Marketplace, com o projeto prático em [Devops_Aula5](https://github.com/Dracon-46/Devops_Aula5).
 - [Aula 6](Aulas/Aula6/Aula6.md) — pipeline no push da main e análise de pipelines reais, com o projeto prático em [Devops_Aula6](https://github.com/Dracon-46/Devops_Aula6).
+- [Aula 7](Aulas/Aula7/Aula7.md) — testes automatizados (unitário, integração e performance), com o projeto prático em [Devops_Aula7](https://github.com/Dracon-46/Devops_Aula7).
 
 ## Referências e documentos
 
